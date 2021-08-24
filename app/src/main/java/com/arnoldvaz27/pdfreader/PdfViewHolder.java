@@ -1,4 +1,4 @@
-package com.player.pdfreader;
+package com.arnoldvaz27.pdfreader;
 
 import android.view.View;
 import android.widget.TextView;
